@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "948620390078",
+    "firebase_url": "https://docs-management.firebaseio.com",
+    "project_id": "docs-management",
+    "storage_bucket": "docs-management.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948620390078:android:ba511ceccf5be8af0ef8ef",
+        "android_client_info": {
+          "package_name": "com.alink.documentmanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948620390078-7beonktttk5msi4t91g327ghne0apvs3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgHn7Fl40qK8D_WiWAqQgKjV6TerXUtZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948620390078-7beonktttk5msi4t91g327ghne0apvs3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948620390078:android:de2bd392915c15ef0ef8ef",
+        "android_client_info": {
+          "package_name": "com.ungdungonline.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948620390078-7beonktttk5msi4t91g327ghne0apvs3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgHn7Fl40qK8D_WiWAqQgKjV6TerXUtZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948620390078-7beonktttk5msi4t91g327ghne0apvs3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

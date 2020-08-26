@@ -1,0 +1,24 @@
+<resources>
+    <string name="default_notification_channel_id">69</string>
+    <string name="app_name">Document Management</string>
+    <string name="document_received">Văn bản đến</string>
+    <string name="document_sent">Văn bản đi</string>
+    <string name="message">Tin nhắn</string>
+    <string name="calendar">Lịch công tác</string>
+    <string name="account">Tài khoản</string>
+
+    <string name="waiting">Chờ xử lý</string>
+    <string name="cooperate">Phối hợp</string>
+    <string name="published">Chờ phát hành</string>
+    <string name="complete">Hoàn thành</string>
+
+    <string name="inbox">Tin nhắn đến</string>
+    <string name="outbox">Tin nhắn đi</string>
+
+    <string name="document_detail">Chi tiết văn bản</string>
+    <string name="finish">Kết thúc</string>
+    <string name="reply">Trả lời</string>
+    <string name="input_comment">Nhập ý kiến...</string>
+    <string name="input_title">Nhập tiêu đề...</string>
+    <string name="create_new_message">Soạn tin nhắn</string>
+</resources>
